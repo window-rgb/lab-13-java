@@ -9,5 +9,7 @@ import junittesting1.squareTest;
 
 @RunWith(Suite.class)
 @SuiteClasses({ countA.class, squareTest.class })
+system.out.println("hellio");
+system.out.println("hellio2");
 
 public class AllTests {}
